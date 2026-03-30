@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Dharanisai26/Dharanisai26/refs/heads/main/devops_github_banner.png)](https://Dharanisai26.io)
 <h1 align="center">Hi 👋, I'm Saisrija Dharani</h1>
 <h3 align="center">Working as DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://chatgpt.com/s/m_69cad632a0f8819188e77008198b5d62">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Dharanisai26/Dharanisai26/refs/heads/main/Focused%20coder%20at%20work.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
