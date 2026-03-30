@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/Dharanisai26/Dharanisai26/refs/heads/main/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2001_02_43%20AM.png)](https://Dharanisai26.io)
+[![MasterHead](https://raw.githubusercontent.com/Dharanisai26/Dharanisai26/refs/heads/main/devops_github_banner.png)](https://Dharanisai26.io)
 <h1 align="center">Hi 👋, I'm Saisrija Dharani</h1>
 <h3 align="center">Working as DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/thumb_back/fh260/background/20241231/pngtree-animated-gif-wavy-effect-image_16531403.jpg">
+<img align="right" alt="Coding" width="400" src="https://chatgpt.com/s/m_69cad632a0f8819188e77008198b5d62">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
